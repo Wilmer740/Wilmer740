@@ -1,9 +1,8 @@
 ¡HOLA! SOY WILMER👋
-► NOMBRE: WILMER REYES CORANI
-► ESTUDIO INGENIERIA DE SISTEMAS
-► "No tengo insomnio, tengo conexión a internet."
-► player raqueta fronton 
-► CONTACTO: 202001835@est.umss.edu
+- NOMBRE: WILMER REYES CORANI
+- ESTUDIO INGENIERIA DE SISTEMAS
+- "No tengo insomnio, tengo conexión a internet."
+- CONTACTO: 202001835@est.umss.edu
 
 <!--
 **Wilmer740/Wilmer740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
